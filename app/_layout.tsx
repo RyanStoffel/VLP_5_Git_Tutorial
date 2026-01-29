@@ -13,6 +13,7 @@ export const unstable_settings = {
   anchor: "(tabs)",
 };
 
+// Create login screen.
 // Create home screen.
 
 export default function RootLayout() {
