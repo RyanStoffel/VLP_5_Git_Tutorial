@@ -13,7 +13,7 @@ export const unstable_settings = {
   anchor: "(tabs)",
 };
 
-// Testing Branch
+// Create home screen.
 
 export default function RootLayout() {
   const colorScheme = useColorScheme();
