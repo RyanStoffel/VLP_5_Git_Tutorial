@@ -13,7 +13,7 @@ export const unstable_settings = {
   anchor: "(tabs)",
 };
 
-// Testing Branch
+// Create login screen.
 
 export default function RootLayout() {
   const colorScheme = useColorScheme();
